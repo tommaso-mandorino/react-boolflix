@@ -1,13 +1,17 @@
+import SearchMovieSection from './components/SearchMovieSection.jsx';
+
 function App() {
 
   return (
 
-    <h1>Boolflix</h1>
+    <main>
+
+      <SearchMovieSection />
+      
+    </main>
 
   );
 
 }
-
-
 
 export default App;
