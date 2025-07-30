@@ -6,6 +6,12 @@ function App() {
 
     <main>
 
+      <a href="./">
+
+        <h1>Boolflix</h1>
+        
+      </a>
+
       <SearchMovieSection />
       
     </main>
